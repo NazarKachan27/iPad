@@ -1,7 +1,7 @@
 header {
     background-color: #757575;
     padding: 15px;
-    width: 1000px;
+    width: 1300px;
     text-align: center;
     color: white;
 }
@@ -13,7 +13,7 @@ header img {
     mix-blend-mode: darken;
 }
 body {
-    width: 1000px;
+    width: 1300px;
     font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
 }
@@ -34,7 +34,7 @@ body {
 }
 footer {
     background-color: #757575;
-    width: 1000px;
+    width: 1300px;
     padding: 10px;
     font-weight: 400;
 }
